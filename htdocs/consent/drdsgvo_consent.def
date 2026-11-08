@@ -1,0 +1,61 @@
+
+<div id="drdsgvo_popup" class="drdsgvo_cmp_showing dspag drdsgvo-hide" style="bottom: 0 !important;
+             left: 0 !important;
+             position: fixed !important;
+             right: 0 !important;
+             transition: opacity .15s ease;
+             z-index: 2147483647 !important;">  
+
+            <div class="drdsgvo_ui drdsgvo_cmp_showing" style="overflow:hidden;background:#5c5c5c !important;box-shadow:inset 1px 1px 4px 4px #c8c8c8">
+
+                <div class="" style="padding-top: 24px;padding-bottom: 24px;">  
+
+                    <div id="drdsgvo_show1" class="drdsgvo-flex" style="z-index:9999">	
+                        <div class="drdsgvo-col-xs-12 drdsgvo-col-sm-8 drdsgvo-col-md-9 drdsgvo-col-lg-6 drdsgvo-col-lg-offset-3">
+
+                            <h2 class="drdsgvo_cmp_title" style="text-align: center;color: #84c101 !important;font-size: 20px;">Wir benötigen Ihre Zustimmung</h2>
+
+                            <p class="drdsgvo_main_mess" style="color:#c8c8c8 !important;font-weight: 300;font-family:Roboto,sans-serif">
+                            </p><div style="padding-left:15px;color: #c8c8c8 !important;">Unsere Webseite nutzt Dienste Dritter, um Ihnen ein besseres Angebot bieten zu können. Die Dienstanbieter sammeln weltweit Daten und nutzen diese für beliebige Zwecke und Partnerschaften. Sie können uns die Nutzung dieser Dienste erlauben oder nur notwendige Datenverarbeitungen akzeptieren. Ihre Einwilligung können Sie jederzeit über <i>Datenschutzeinstellungen anpassen</i> unten auf der Webseite widerrufen.<div class="hidden-xs"> Klicken sie auf <i>Details</i>, um mehr Informationen zu erhalten.</div></div>
+                            <p></p>
+
+                        </div>
+
+                        <div style="text-align: center;color: #5c5c5c;font-size: 10px;" class="wwwbtns1 drdsgvo_buttons drdsgvo-col-xs-12 col-sm-4 drdsgvo-col-md-3 drdsgvo-col-lg-offset-0 drdsgvo-col-lg-3"> 
+                            <button class="drdsgvo_button btnwww1" onclick="drdsgvo_unblock(1);drdsgvo_close();" style=""> Allen zustimmen </button>
+                            <button class="drdsgvo_button btnwww1" onclick="drdsgvo_block(1);drdsgvo_close()"> Nur notwendige </button>
+                            <button class="drdsgvo_button btnwww1" onclick="showDetdrdsgvo(1)" style="border:2px solid #8a8a8a !important;background:#8a8a8a !important"> Details </button>
+                            <div style="font-size:10px !important;margin-top: 32px;" class="hidden-xs colx-xs-12">
+                                <p style="color: #d8d8d8;margin: 0;display: block;font-size:10px"> Mit freundlicher Unterstützung von <a style="color:#fff !important" class="nomobile" href="https://dr-dsgvo.de/" target="_blank">Dr. DSGVO
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+
+                <div id="drdsgvo_show2" class="drdsgvo-col-xs-12 drdsgvo-col-sm-12 drdsgvo-col-lg-offset-1 drdsgvo-col-lg-11 drdsgvo-hide" style="color:#cacaca !important;padding-left:16px;padding-right:16px">
+                    <div style="max-height:180px;overflow-y:scroll">
+                        <h3 style="color:#fff">Verwendete Dienste</h3>
+                        Sie können Ihre Einwilligung für folgende Dienste erteilen oder statt dessen nur notwendige Verarbeitungen zulassen. Weitere Informationen finden Sie in unserer Datenschutzerklärung.<br>
+                        <h4>Google Tag Manager</h4>
+                        Dieser Dienst wird von der Firma Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irland (kurz: Google) bereitgestellt. Er lädt andere Dienste nach, insbesondere die nachfolgend genannten Dienste. Google erhält Verbindungsdaten Ihrer Internetnutzung und kann diese für die Optimierung seines Dienstes verwenden - dies gilt auch für alle folgenden Google-Dienste.
+                        <h4>Google Analytics</h4>
+                        Dieser Dienst wird von Google bereitgestellt. Damit kann Ihr Nutzungsverhalten unserer Webseite analysiert werden, was uns hilft, ein zielgenaueres Angebot zu erstellen.Der Dienst nutzt folgende Cookies (Name, Lebensdauer, Funktion): _ga, 2 Jahre, Kennung zur Identifikation eindeutiger Nutzer durch den Dienst; _gid, 1 Tag, Kennung zur tagesweisen Erkennung von Nutzern; _gat, 2 Stunden, Kennung dass Datenerfassung durch den Dienst erfolgt.
+                        <h4>Facebook Plugin</h4>
+                        Dieser Dienst wird bereitgestellt von Facebook , Inc., 1 Hacker Way, Menlo Park, CA 94025, USA ("Facebook"). Damit kann Ihr Nutzungsverhalten unserer Webseite analysiert und mit Ihrem Facebook-Konto, sofern Sie eines besitzen, verknüpt werden.Der Dienst nutzt folgende Cookies (Name, Lebensdauer, Funktion): _fbp, 3 Monate, Kennung zur Identifikation eindeutiger Nutzer durch den Dienst.
+                        <div>
+                        </div>
+                    </div>
+                    <div style="margin-top:8px" class="text-center">
+                        <button class="drdsgvo_button btnwww1" onclick="showDetdrdsgvo(2)" style="border:0;background:#8a8a8a !important"> Zurück </button>
+                    </div>					
+                </div>		
+
+                <div class="impds" style="display: block;color: #222;text-align:center">
+                    <a style="color:#aaa" id="imp_link" href="/impressum.html">Impressum</a> | <a style="color:#aaa" id="dse_link" href="/datenschutz">Datenschutzhinweise</a>
+                </div>
+            </div>
+        </div> 

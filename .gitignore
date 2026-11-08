@@ -1,0 +1,16 @@
+# Setup und lokale Entwicklungsdateien
+instPack/
+mats/
+BERICHT.md
+
+# Einwilligungsnachweise der Besucher (personenbezogene Daten)
+htdocs/consent/user_consent_drdsgvo.json
+
+# Zugangsdaten, Abhängigkeiten, Build, System
+.env
+node_modules/
+vendor/
+dist/
+*.log
+.DS_Store
+Thumbs.db

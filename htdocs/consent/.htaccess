@@ -1,0 +1,4 @@
+# Einwilligungsnachweise (IP-Adresse, Zeitpunkt) nicht über das Web ausliefern
+<Files "user_consent_drdsgvo.json">
+    Require all denied
+</Files>
